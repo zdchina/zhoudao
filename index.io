@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>我的个人网页</title>
-    <!-- 在此处可以链接CSS文件以美化页面 -->
     <!-- <link rel="stylesheet" href="styles.css"> -->
 </head>
 <body>
@@ -24,17 +23,20 @@
         <!-- 主要内容区域，你可以添加段落、图片、列表等元素 -->
         <section id="about">
             <h2>关于我</h2>
-            <!-- 在这里填写关于你的介绍 -->
+            <!-- 你好，我叫周稻，目前高中 -->
         </section>
         
         <section id="projects">
             <h2>项目展示</h2>
-            <!-- 列出你的项目或工作经验 -->
+            <!-- 加拿大JCCO化学竞赛全国铜奖
+                东北亚广州辩论赛高中组前11
+                  美国AMC数学竞赛三等奖-->
         </section>
         
         <section id="contact">
             <h2>联系方式</h2>
-            <!-- 添加你的联系方式，如邮箱、社交媒体链接等 -->
+            <!-- Tel13306523474 
+                 email13306523474@163.com-->
         </section>
     </main>
 
